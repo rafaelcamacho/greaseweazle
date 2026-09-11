@@ -1,1 +1,1 @@
-![GreaseWeazle Rerouted!](images/Imagem1.jpeg)
+![GreaseWeazle Rerouted!](images/Image1.jpeg)
